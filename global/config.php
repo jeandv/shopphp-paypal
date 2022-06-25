@@ -1,10 +1,10 @@
 <?php
-define("KEY", "xr4yb4x");
+define("KEY", "");
 define("COD", "AES-128-ECB");
 define("SERVIDOR", "localhost");
-define("USUARIO", "ipmd89to");
-define("PASSWORD", "kh7wy'ZT+~&1*2_");
-define("BD", "ipmd89to_tienda");
+define("USUARIO", "");
+define("PASSWORD", "");
+define("BD", "");
 define("DESCARGASPERMITIDAS","1");
 //SANDBOX (PRUEBA PAYPAL):
 define("LINKAPI","https://api-m.sandbox.paypal.com");
